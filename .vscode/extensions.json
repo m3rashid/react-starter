@@ -5,16 +5,16 @@
 	// List of extensions which should be recommended for users of this workspace.
 	"recommendations": [
 		"bradlc.vscode-tailwindcss",
-		"aaron-bond.better-comments",
-		"dbaeumer.vscode-eslint",
 		"esbenp.prettier-vscode",
+		"dbaeumer.vscode-eslint",
 		"wix.vscode-import-cost",
 		"usernamehw.errorlens",
 		"mhutchie.git-graph",
-		"ms-vscode.js-debug",
-		"ms-vscode.js-debug-companion",
-		"naumovs.color-highlight",
 		"eamodio.gitlens",
+		"ms-vscode.js-debug",
+		"naumovs.color-highlight",
+		"aaron-bond.better-comments",
+		"ms-vscode.js-debug-companion",
 		"streetsidesoftware.code-spell-checker"
 	],
 	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.

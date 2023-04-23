@@ -1,4 +1,13 @@
 {
 	"eslint.run": "onSave",
-	"cSpell.words": ["Appstore", "dompurify", "hocs", "mantine", "precommit", "RJSF", "Sider"]
+	"cSpell.words": [
+		"Appstore",
+		"dompurify",
+		"hocs",
+		"mantine",
+		"precommit",
+		"Prefixer",
+		"RJSF",
+		"Sider"
+	]
 }
