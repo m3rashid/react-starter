@@ -21,21 +21,21 @@ This is a starter template for React projects. It includes the following:
 
 Other Developer Tooling and Configuration:
 
-| Package                                          | Use Case                                                                  |
-| ------------------------------------------------ | ------------------------------------------------------------------------- |
-| [Husky](https://typicode.github.io/husky/)       | Git Hooks: Adding actions on various git commands (eg: commit, push etc.) |
-| [EsLint](https://eslint.org/)                    | Linting: Maintain a consistent styling, code error guidelines etc.        |
-| [Prettier](https://prettier.io/)                 | Code Formatting: Format code                                              |
-| [Editor Config](https://editorconfig.org/)       | Editor Configuration: Code formatter works consistent across all IDEs     |
-| [Post CSS](https://postcss.org/)                 | CSS Processing                                                            |
-| [Auto Prefixer](https://autoprefixer.github.io/) | parses your CSS and adds vendor prefixes                                  |
-| [Typescript](https://www.typescriptlang.org/)    | Typescript                                                                |
+| Package                                          | Use Case                                                                                                                         |
+| ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| [Husky](https://typicode.github.io/husky/)       | Git Hooks: Adding actions on various git commands (eg: commit, push etc.), very useful in maintaining consistent code formatting |
+| [EsLint](https://eslint.org/)                    | Linting: Maintain a consistent styling, code error guidelines etc.                                                               |
+| [Prettier](https://prettier.io/)                 | Code Formatting: Format code                                                                                                     |
+| [Editor Config](https://editorconfig.org/)       | Editor Configuration: Code formatter works consistent across all IDEs                                                            |
+| [Post CSS](https://postcss.org/)                 | CSS Processing                                                                                                                   |
+| [Auto Prefixer](https://autoprefixer.github.io/) | parses your CSS and adds vendor prefixes                                                                                         |
+| [Typescript](https://www.typescriptlang.org/)    | Typescript: Sensible developer tooling (autocomplete and suggestions) to ease out development work                               |
 
 Recommended VsCode Extensions:
 
 | Extension          | Use Case                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------ |
-| Tailwindcss        | Tailwind CSS IntelliSense: Gives auto-complete on your Tailwindcss classes                       |
+| Tailwindcss        | Tailwind CSS IntelliSense: Gives auto-complete and suggestions on your Tailwindcss classes                       |
 | Prettier           | Code Formatter: Format on save actions and prettier integrations                                 |
 | EsLint             | Linting: Lint/Format on save and integration                                                     |
 | Import Cost        | Display import size: Show size of your imported libraries                                        |
