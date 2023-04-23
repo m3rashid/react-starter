@@ -2,22 +2,22 @@
 
 This is a starter template for React projects. It includes the following:
 
-| Package                                                                                   | Use Case                                                                             |
-| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| [React](https://react.dev/)                                                               | Frontend framework to build User Interfaces (This project uses the client part only) |
-| [React Dom](https://react.dev/reference/react-dom/)                                       | React DOM                                                                            |
-| [React Router Dom](https://reactrouter.com/en/main)                                       | React Router                                                                         |
-| [React Scripts](https://www.npmjs.com/package/react-scripts/)                             | React Scripts                                                                        |
-| [Recoil](https://recoiljs.org/)                                                           | Global State management Library: Has a useState like API                             |
-| [Ant Design](https://ant.design/)                                                         | UI library: Has a ton of built in components to ease out the work                    |
-| [Tailwind CSS](https://tailwindcss.com/)                                                  | CSS library: No hassle of writing absurdly large css files                           |
-| [Ant Design Icons](https://ant.design/components/icon/)                                   | Icon library                                                                         |
-| [RJSF Core](https://rjsf-team.github.io/react-jsonschema-form/docs/)                      | JSON Schema Form library                                                             |
-| [RJSF Ant Design](https://rjsf-team.github.io/react-jsonschema-form/docs/usage/themes)    | Ant Design theme for RJSF                                                            |
-| [RJSF Validator](https://rjsf-team.github.io/react-jsonschema-form/docs/usage/validation) | JSON Schema validator for RJSF                                                       |
-| [Axios](https://axios-http.com/docs/intro)                                                | HTTP client: Makes sending HTTP requests easy                                        |
-| [DayJs](https://day.js.org/)                                                              | Date and Time library                                                                |
-| [Lodash Debounce](https://www.npmjs.com/package/lodash.debounce)                          | Lodash Debounce library: Consistent Delay for your function                          |
+| Package                                                                                   | Use Case                                                                                       |
+| ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| [React](https://react.dev/)                                                               | Frontend framework to build User Interfaces (This project uses the client part only)           |
+| [React Dom](https://react.dev/reference/react-dom/)                                       | React DOM                                                                                      |
+| [React Router Dom](https://reactrouter.com/en/main)                                       | React Router                                                                                   |
+| [React Scripts](https://www.npmjs.com/package/react-scripts/)                             | React Scripts                                                                                  |
+| [Recoil](https://recoiljs.org/)                                                           | Global State management Library: Has a useState like API                                       |
+| [Ant Design](https://ant.design/)                                                         | UI library: Has a ton of built in components to ease out the frontend development (UI/UX) work |
+| [Tailwind CSS](https://tailwindcss.com/)                                                  | CSS library: No hassle of writing absurdly large css files                                     |
+| [Ant Design Icons](https://ant.design/components/icon/)                                   | Icon library consistent with Ant Design Specs                                                  |
+| [RJSF Core](https://rjsf-team.github.io/react-jsonschema-form/docs/)                      | JSON Schema Form library                                                                       |
+| [RJSF Ant Design](https://rjsf-team.github.io/react-jsonschema-form/docs/usage/themes)    | Ant Design theme for RJSF                                                                      |
+| [RJSF Validator](https://rjsf-team.github.io/react-jsonschema-form/docs/usage/validation) | JSON Schema validator for RJSF                                                                 |
+| [Axios](https://axios-http.com/docs/intro)                                                | HTTP client: Makes sending HTTP requests easy                                                  |
+| [DayJs](https://day.js.org/)                                                              | Date and Time library                                                                          |
+| [Lodash Debounce](https://www.npmjs.com/package/lodash.debounce)                          | Lodash Debounce library: Consistent Delay for your function                                    |
 
 Other Developer Tooling and Configuration:
 
@@ -35,7 +35,7 @@ Recommended VsCode Extensions:
 
 | Extension          | Use Case                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------ |
-| Tailwindcss        | Tailwind CSS IntelliSense: Gives auto-complete and suggestions on your Tailwindcss classes                       |
+| Tailwindcss        | Tailwind CSS IntelliSense: Gives auto-complete and suggestions on your Tailwindcss classes       |
 | Prettier           | Code Formatter: Format on save actions and prettier integrations                                 |
 | EsLint             | Linting: Lint/Format on save and integration                                                     |
 | Import Cost        | Display import size: Show size of your imported libraries                                        |
