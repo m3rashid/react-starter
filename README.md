@@ -1,5 +1,24 @@
 ![React Starter Template](./public/banner.png)
 
+### How to Get started
+
+```sh
+# Clone the repository
+git clone https://github.com/m3rashid/react-starter <project-name>
+
+# Go inside the directory
+cd <project-name>
+
+# Install dependencies
+yarn install
+
+# Start the development server
+yarn start
+```
+
+<br />
+
+
 This is a starter template for React projects. It includes the following:
 
 | Package                                                                                   | Use Case                                                                                       |
