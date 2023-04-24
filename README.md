@@ -3,8 +3,13 @@
 ### How to Get started
 
 ```sh
-# Clone the repository
-git clone https://github.com/m3rashid/react-starter <project-name>
+# If you use github cli <gh>
+gh repo create <project-name> --public --template m3rashid/react-starter
+
+# Else you can follow these steps
+- Go to  https://github.com/m3rashid/react-starter  
+- Click on the "use this template button" button then on the "Create a new repository" button
+- Follow the regular github flow to clone the repo
 
 # Go inside the directory
 cd <project-name>
